@@ -1,4 +1,7 @@
-computer science student
-experience in C#, C/C++, Java, Javascript
-linux enthusiast, a good chunk of hands on experience in kernel applications and OS development
+computer science student (nerd) 
+<break>
+Have a good understanding and profeciency in C/C++, Java, Javascript 
+<break>
+Linux enthusiast, experience in various distros (Arch, Fedora and Ubuntu) 
+<break>
 wannabe game dev 
