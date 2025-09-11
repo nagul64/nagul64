@@ -9,4 +9,5 @@ Linux enthusiast, know how to use the terminal for general tasks (cd, git, shell
 
 aspiring game dev , learning to develop 2D games with Unity  
 
-love to fine-tune LLMs for specific use cases   
+
+fine-tune LLMs for specific use cases   
