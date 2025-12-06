@@ -1,13 +1,14 @@
-computer science student (nerd)  
+                            ╱|、
+               *meow*     (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
 
+computer science student (*nerd*)
 
-Have a good understanding and proficiency in C/C++, Java, Javascript  
+prefer C/C++ (currently suffering through Vulkan & learning Unity)
 
+daily driving Arch with Hyprland + Zsh (expert at breaking my configs unintentionally and learning by fixing the mess... ricing, scripting, system rescue, blah blah blah etc)
 
-Linux enthusiast, know how to use the terminal for general tasks (cd, git, shell scripting, maintaining packages, troubleshooting issues, configuring the system, managing partitions etc.. you get the deal)  
+learning cybersecurity (OTW Bandit)
 
-
-aspiring game dev , learning to develop 2D games with Unity  
-
-
-fine-tune LLMs for specific use cases   
+tinkering with LLMs and vision models in my free time
