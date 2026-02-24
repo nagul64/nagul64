@@ -5,7 +5,7 @@
 
 computer science student (*nerd*)
 
-prefer C/C++ (currently suffering through Vulkan & learning Unity)
+prefer C/C++ (currently suffering learning Unity)
 
 daily driving Arch with Hyprland + Zsh (expert at breaking my configs unintentionally and learning by fixing the mess... ricing, scripting, system rescue, blah blah blah etc)
 
