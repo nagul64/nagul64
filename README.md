@@ -3,12 +3,14 @@
                            |、˜〵          
                           じしˍ,)ノ
 
-computer science student (*nerd*)
+computer science student 
 
-prefer C/C++ (currently suffering learning Unity)
+prefer C/C++ 
 
-daily driving Arch with Hyprland + Zsh (expert at breaking my configs unintentionally and learning by fixing the mess... ricing, scripting, system rescue, blah blah blah etc)
+daily driving Arch with Hyprland (expert at breaking my configs unintentionally and learning by fixing the mess... ricing, scripting, system rescue, blah blah blah etc)
 
-learning cybersecurity (OTW Bandit)
+learning cybersecurity and web design (i love design)
 
-tinkering with LLMs and vision models in my free time
+[click here check out my website](https://nagul64.github.io)
+
+tinkering with local LLMs and vision models in my free time
